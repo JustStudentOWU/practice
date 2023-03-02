@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+}
+.users {
+    background-color: aqua;
+    width: 35%;
+}
+.posts {
+    background-color: aliceblue;
+    width: 65%;
+}
